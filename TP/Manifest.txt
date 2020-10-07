@@ -1,0 +1,2 @@
+Main-Class: TP.MainGui
+Class-Path: ..
